@@ -26,3 +26,5 @@ Here are the images of some of the cars that we have used in our predictions res
 ![alt text](https://www.gannett-cdn.com/presto/2019/10/04/PDTF/5a5966f7-e60b-42ef-8e72-0d3d4df01b79-2020-Cadillac-Escalade-002.jpg)
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/5/5d/2008_Scion_xB.jpg)
 ![alt text](https://specials-images.forbesimg.com/imageserve/5fb4141495f848590f72a25e/960x0.jpg?fit=scale)
+![alt text](https://media.ed.edmunds-media.com/maserati/levante/2019/oem/2019_maserati_levante_4dr-suv_trofeo_fq_oem_2_1600.jpg)
+![alt text](https://www.automobilemag.com/uploads/sites/11/2019/08/Subaru-WRX-STI-209.jpg)
