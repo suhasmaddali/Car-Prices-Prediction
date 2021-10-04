@@ -11,6 +11,15 @@ Having a look at some of the cars that we are always excited to use in our daily
 
 Here are the images of some of the cars that we have used in our predictions respectively. There are many other cars that are not included in the pics below. But feel free to have a look at all the images of different cars. 
 
+## Directions to run the Ipython notebook 
+
+1. You'll have to download and install Git that could be used for cloning the repositories that are present. The link to download Git is https://git-scm.com/downloads.
+2. Once the Git is downloaded and installed, you'll have to right-click on the location where you would like to add the files or the repository. 
+3. You'll have to click on "Gitbash here" that would be opened when you right click on a particular location. 
+4. One the Gitbash terminal opens, you'll need to write "Git clone" and then copy the clipboard file that is present when you click on Code in Github. The link must be pasted and run so that the files would be downloaded at the location of interest. 
+5. Later, you'll need to use Anaconda Prompt and add "Jupyter notebook" in the prompt. 
+6. This would open the jupyter notebook that could be used to run and load the .ipynb files respectively. Therefore, you would be able to run the project at hand. 
+
 ![alt text](https://media.wired.com/photos/59547e60ce3e5e760d52d429/191:100/w_1280,c_limit/02_Bugatti-VGT_photo_ext_WEB.jpg)
 ![alt text](https://s1.cdn.autoevolution.com/images/models/AUDI_A3-Sportback-2020_main.jpg)
 ![alt text](https://robbreport.com/wp-content/uploads/2020/07/6-3.jpg?w=1000)
