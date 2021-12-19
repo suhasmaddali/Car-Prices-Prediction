@@ -14,7 +14,9 @@ Having a look at some of the cars that we are always excited to use in our daily
 
 Here are the images of some of the cars that we have used in our predictions respectively. There are many other cars that are not included in the pics below. But feel free to have a look at all the images of different cars. 
 
-## Directions to download the repository and run the notebook 
+## 👉 Directions to download the repository and run the notebook 
+
+This is for the Washington Bike Demand Prediction repository. But the same steps could be followed for this repository. 
 
 1. You'll have to download and install Git that could be used for cloning the repositories that are present. The link to download Git is https://git-scm.com/downloads.
  
@@ -57,7 +59,7 @@ Here are the images of some of the cars that we have used in our predictions res
 
 &emsp;&emsp; <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(12).png" width = "600" />
 
-10. You might now run the .ipynb files present in the repository to open the notebook and the python code present in it. 
+11. You might now run the .ipynb files present in the repository to open the notebook and the python code present in it. 
 
 &emsp;&emsp; <img src = "https://github.com/suhasmaddali/Images/blob/main/Screenshot%20(13).png" width = "600" />
 
