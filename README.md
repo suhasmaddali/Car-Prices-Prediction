@@ -18,8 +18,6 @@ We would be working with quite a large data which contain about 10000 data point
 
 Having a look at some of the cars that we are always excited to use in our daily lives, it is better to understand how these cars are being sold and their average prices respectively. 
 
-Here are the images of some of the cars that we have used in our predictions respectively. There are many other cars that are not included in the pics below. But feel free to have a look at all the images of different cars. 
-
 ## 👉 Directions to download the repository and run the notebook 
 
 This is for the Washington Bike Demand Prediction repository. But the same steps could be followed for this repository. 
