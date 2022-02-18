@@ -6,7 +6,7 @@
 
 There are a lot of car manufacturers in the US. With the development of manufacturing units and tests, there are a lot of cars being manufactured with a lot of features. Therefore, innovators are coming with the latest developments in the field and they are ensuring that the drivers get the best experience going on a ride in these cars. 
 
-However, one of the challenging aspects of running the sales for cars is to accurately give the best price for cars which ensures that a lot of people buy them and there is a great demand because of this price. 
+However, one of the challenging aspects of running the sales for cars is to accurately give the best price for cars which ensures that a lot of people buy them and there is a great demand because of this price. Factors that influence the price of cars are the mileage, car size, manufacturer and a lot of other factors. But for humans to comprehensively decide the price is difficult especially when there are a lot of these features that influence the price. 
 
 ## Machine Learning and Deep Learning
 
