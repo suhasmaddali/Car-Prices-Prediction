@@ -8,13 +8,11 @@ There are a lot of __car manufacturers__ in the US. With the development of manu
 
 However, one of the challenging aspects of running the sales for cars is to accurately give the __best price__ for cars which ensures that a lot of people buy them and there is a great demand because of this price. Factors that influence the price of cars are __mileage__, __car size__, __manufacturer__ and many others as well. But for humans to comprehensively decide the price is difficult especially when there are a lot of these features that influence the price. One of the solutions to this challenge is to use __machine learning__ and __data science__ to understand the insights and make valuable predictions which generate profits for the companies.  
 
+![alt text](https://media.wired.com/photos/59547e60ce3e5e760d52d429/191:100/w_1280,c_limit/02_Bugatti-VGT_photo_ext_WEB.jpg)
+
 ## Machine Learning and Deep Learning
 
 <p><strong>Machine Learning</strong> and <strong>deep learning</strong> have gained rapid traction in the recent decade. It would be really helpful if we are able to predict the prices of car based on a few set of features such as <strong>horsepower</strong>, <strong>make</strong> and <strong>other features</strong>. Imagine if a company wants to set the price of a car based on some of the features that it came forth with such as make, horsepower and mileage. It could do so with the help of machine learning models that would help it to determine the price of car. This would ensure that the company sets the right amount so that they get the most profits while setting such a price. Therefore, the machine learing models that we would be working with would ensure that right price is set to new cars which would save a lot of money for car manufacturers respectively. </p>
-
-![alt text](https://media.wired.com/photos/59547e60ce3e5e760d52d429/191:100/w_1280,c_limit/02_Bugatti-VGT_photo_ext_WEB.jpg)
-
-
 
 We would be working with the car prices prediction data and looking for the predictions of different kinds of cars. We would be first visualizing the data and understanding some of the information that is very important for predictions. We would be using different regression techniques to get the average price of the car under consideration.
 
