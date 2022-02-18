@@ -4,7 +4,9 @@
 
 ## Problem Statement
 
-There are a lot of car manufactureres in the US. 
+There are a lot of car manufacturers in the US. With the development of manufacturing units and tests, there are a lot of cars being manufactured with a lot of features. Therefore, innovators are coming with the latest developments in the field and they are ensuring that the drivers get the best experience going on a ride in these cars. 
+
+However, one of the challenging aspects of running the sales for cars is to accurately give the best price for cars which ensures that a lot of people buy them and there is a great demand because of this price. 
 
 ## Introduction
 
