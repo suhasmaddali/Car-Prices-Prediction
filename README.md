@@ -38,6 +38,8 @@ In this section of the project, the data is explored to see the patterns and tre
 * A large number of cars were from the manufacturer __'Chevrolet'__ followed by __'Ford'__. 
 * The total number of cars manufactured during the year __2015__ were the highest in all the years found on the data.
 * There were many missing values for __'Market Category'__ feature and a few missing values for the features __'Engine HP'__ and __'Engine Cylinders'__.
+* The average prices of the cars were the highest in the year 2014 and lowest in the year 1990 from the data. 
+* The prices of 'Bugatti' manufacturer are extremely high compared to the other car manufacturers.  
 
 
 ## 👉 Directions to download the repository and run the notebook 
