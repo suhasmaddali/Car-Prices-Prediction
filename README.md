@@ -28,6 +28,9 @@ We would be working with the car prices prediction data and looking for the pred
 
 Predicting the car prices is a continuous machine learning problem. Therefore, the following metrics that are useful for regression problems are taken into account. Below are the metrics that were used in the process of predicting of car prices.
 
+* Mean Squared Error (MSE)
+* Mean Absolute Error (MAE)
+
 
 ## 👉 Directions to download the repository and run the notebook 
 
