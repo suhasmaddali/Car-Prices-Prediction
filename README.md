@@ -48,14 +48,14 @@ In this section of the project, the data is explored to see the patterns and tre
 We have to be using various machine learning models to see which model reduces the mean absolute error (MAE) or mean squared error (MSE) on the cross-validation data respectively. Below are the various machine learning models used. 
 
 | __Machine Learning Models__| __Mean Absolute Error__| __Mean Squared Error__|
-| | :-:| :-:|
-| Linear Regression| 6737| 364527989|
-| Support Vector Regressor|	22525|	2653742304|
-|	K Nearest Regressor|	4668|	198923161|
-|	PLS Regression|	6732|	364661296|
-|	Decision Tree Regressor|	3327|	135789622|
-|	Gradient Boosting Regressor|	4432|	175275369|
-|	MLP Regressor|	6467|	250908327|
+| :-:| :-:| :-:|
+| 1. Linear Regression| 6737| 364527989|
+| 2. Support Vector Regressor|	22525|	2653742304|
+|	3. K Nearest Regressor|	4668|	198923161|
+|	4. PLS Regression|	6732|	364661296|
+|	5. Decision Tree Regressor|	3327|	135789622|
+|	6. Gradient Boosting Regressor|	4432|	175275369|
+|	7. MLP Regressor|	6467|	250908327|
 
 
 
