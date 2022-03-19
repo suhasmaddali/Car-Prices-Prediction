@@ -24,6 +24,11 @@ Having a look at some of the cars that we are always excited to use in our daily
 
 We would be working with the car prices prediction data and looking for the predictions of different kinds of cars. We would be first visualizing the data and understanding some of the information that is very important for predictions. We would be using different regression techniques to get the average price of the car under consideration.
 
+## Metrics
+
+Predicting the car prices is a continuous machine learning problem. Therefore, the following metrics that are useful for regression problems are taken into account. Below are the metrics that were used in the process of predicting of car prices.
+
+
 ## 👉 Directions to download the repository and run the notebook 
 
 This is for the Washington Bike Demand Prediction repository. But the same steps could be followed for this repository. 
