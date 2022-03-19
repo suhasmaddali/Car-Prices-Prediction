@@ -35,9 +35,9 @@ Predicting the car prices is a __continuous machine learning problem__. Therefor
 
 In this section of the project, the data is explored to see the patterns and trends and observe interesting insights. Below are some interesting observations generated.
 
-* A large number of cars were from the manufacturer 'Chevrolet' followed by 'Ford'. 
-* The total number of cars manufactured during the year 2015 were the highest in all the years found on the data.
-* There were many missing values for 'Market Category' feature and a few missing values for the features 'Engine HP' and 'Engine Cylinders'.
+* A large number of cars were from the manufacturer __'Chevrolet'__ followed by __'Ford'__. 
+* The total number of cars manufactured during the year __2015__ were the highest in all the years found on the data.
+* There were many missing values for __'Market Category'__ feature and a few missing values for the features __'Engine HP'__ and __'Engine Cylinders'__.
 
 
 ## 👉 Directions to download the repository and run the notebook 
