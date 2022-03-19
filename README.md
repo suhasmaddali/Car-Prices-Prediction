@@ -49,22 +49,13 @@ We have to be using various machine learning models to see which model reduces t
 
 | __Machine Learning Models__| __Mean Absolute Error__| __Mean Squared Error__|
 | :-:| :-:| :-:|
-| __Linear Regression__| 6737| 364527989|
-* __Support Vector Regressor__
-* __K - Neighbors Regressor__
-* __PLS Regression__
-* __Decision Tree Regressor__
-* __Gradient Boosting Regressor__
-* __MLP Regressor__
-
-
-Linear Regression	6737	364527989
-1	Support Vector Regressor	22525	2653742304
-2	K Nearest Regressor	4668	198923161
-3	PLS Regression	6732	364661296
-4	Decision Tree Regressor	3327	135789622
-5	Gradient Boosting Regressor	4432	175275369
-6	MLP Regressor	6467	250908327
+| Linear Regression| 6737| 364527989|
+| Support Vector Regressor|	22525|	2653742304|
+|	K Nearest Regressor|	4668|	198923161|
+|	PLS Regression|	6732|	364661296|
+|	Decision Tree Regressor|	3327|	135789622|
+|	Gradient Boosting Regressor|	4432|	175275369|
+|	MLP Regressor|	6467|	250908327|
 
 
 
