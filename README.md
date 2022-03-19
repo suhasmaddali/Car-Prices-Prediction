@@ -37,7 +37,7 @@ In this section of the project, the data is explored to see the patterns and tre
 
 * A large number of cars were from the manufacturer 'Chevrolet' followed by 'Ford'. 
 * The total number of cars manufactured during the year 2015 were the highest in all the years found on the data.
-* 
+* There were many missing values for 'Market Category' feature and a few missing values for the features 'Engine HP' and 'Engine Cylinders'.
 
 
 ## 👉 Directions to download the repository and run the notebook 
