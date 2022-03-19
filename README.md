@@ -40,6 +40,7 @@ In this section of the project, the data is explored to see the patterns and tre
 * There were many missing values for __'Market Category'__ feature and a few missing values for the features __'Engine HP'__ and __'Engine Cylinders'__.
 * The average prices of the cars were the highest in the year 2014 and lowest in the year 1990 from the data. 
 * The prices of __'Bugatti'__ manufacturer are extremely high compared to the other car manufacturers.  
+* __'Bugatti'__ manufacturer also had an extremely high value for the horsepower (HP) based on the graphs in the notebook.
 
 
 ## 👉 Directions to download the repository and run the notebook 
