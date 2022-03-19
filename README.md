@@ -41,6 +41,7 @@ In this section of the project, the data is explored to see the patterns and tre
 * The average prices of the cars were the highest in the year 2014 and lowest in the year 1990 from the data. 
 * The prices of __'Bugatti'__ manufacturer are extremely high compared to the other car manufacturers.  
 * __'Bugatti'__ manufacturer also had an extremely high value for the horsepower (HP) based on the graphs in the notebook.
+* There is a negative correlation between the feature 'City Mileage' and other features such as 'Engine Cylinders' and 'Engine HP'. This is true because higher the mileage of the car, there is a higher probability that the total number of cylinders and engine horsepower would be low. 
 
 
 ## 👉 Directions to download the repository and run the notebook 
