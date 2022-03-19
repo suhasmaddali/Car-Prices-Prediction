@@ -47,9 +47,9 @@ In this section of the project, the data is explored to see the patterns and tre
 
 We have to be using various machine learning models to see which model reduces the mean absolute error (MAE) or mean squared error (MSE) on the cross-validation data respectively. Below are the various machine learning models used. 
 
-| __Linear Regression__| 6737|
-| :-:| :-:|
-| __Linear Regression__| 6737|
+| __Machine Learning Models__| __Mean Absolute Error__| __Mean Squared Error__|
+| :-:| :-:| :-:|
+| __Linear Regression__| 6737| 364527989|
 * __Support Vector Regressor__
 * __K - Neighbors Regressor__
 * __PLS Regression__
