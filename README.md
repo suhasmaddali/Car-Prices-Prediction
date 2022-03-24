@@ -14,9 +14,7 @@ However, one of the challenging aspects of running the sales for cars is to accu
 
 <h2> Data Used</h2>
 
-We would be working with quite a large data which contain about __10000__ data points where again we would be dividing that into training set and the test set respectively. 
-
-Having a look at some of the cars that we are always excited to use in our daily lives, it is better to understand how these cars are being sold and their average prices respectively. 
+We would be working with quite a large data which contain about __10000__ data points where again we would be dividing that into training set and the test set. Having a look at some of the cars that we are always excited to use in our daily lives, it is better to understand how these cars are being sold and their average prices.
 
 Feel free to take a look at the dataset that was used in the process of predicting the prices of cars. Below is the link.
 
