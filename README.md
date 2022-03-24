@@ -59,7 +59,9 @@ We have to be using various machine learning models to see which model reduces t
 
 ## Outcomes
 
-* The best model that was performing the best in terms of mean absolute error (MAE) and mean squared error (MSE) was Decision Tree Regressor. 
+* The best model that was performing the best in terms of __mean absolute error (MAE)__ and __mean squared error (MSE)__ was __Decision Tree Regressor__.
+* __Exploratory Data Analysis (EDA)__ revealed that __Bugatti manufacturer's prices__ were significantly higher than the other manufacturers. 
+* __Scatterplots__ between the __actual prices__ and __predicted prices__ were almost __linear__, especially for the __Decision Tree Regressor__ model.
 
 ## 👉 Directions to download the repository and run the notebook 
 
