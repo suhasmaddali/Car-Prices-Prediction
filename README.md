@@ -63,6 +63,10 @@ We have to be using various machine learning models to see which model reduces t
 * __Exploratory Data Analysis (EDA)__ revealed that __Bugatti manufacturer's prices__ were significantly higher than the other manufacturers. 
 * __Scatterplots__ between the __actual prices__ and __predicted prices__ were almost __linear__, especially for the __Decision Tree Regressor__ model.
 
+## Future Scope
+
+* It would be great if the best machine learning model (Decision Tree Regressor) is integrated in the live application where a seller is able to add details such as the manufacturer, year of manufacture and engine cylinders to determine the best price for cars that generates large profit margins for the seller. 
+
 ## 👉 Directions to download the repository and run the notebook 
 
 This is for the Washington Bike Demand Prediction repository. But the same steps could be followed for this repository. 
