@@ -57,7 +57,9 @@ We have to be using various machine learning models to see which model reduces t
 |	6. Gradient Boosting Regressor|	4432|	175275369|
 |	7. MLP Regressor|	6467|	250908327|
 
+## Outcomes
 
+* The best model that was performing the best in terms of mean absolute error (MAE) and mean squared error (MSE) was Decision Tree Regressor. 
 
 ## 👉 Directions to download the repository and run the notebook 
 
