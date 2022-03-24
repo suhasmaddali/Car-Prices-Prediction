@@ -18,6 +18,9 @@ We would be working with quite a large data which contain about __10000__ data p
 
 Having a look at some of the cars that we are always excited to use in our daily lives, it is better to understand how these cars are being sold and their average prices respectively. 
 
+Feel free to take a look at the dataset that was used in the process of predicting the prices of cars. Below is the link.
+
+
 ## Machine Learning and Deep Learning
 
 <p><strong>Machine Learning</strong> and <strong>deep learning</strong> have gained rapid traction in the recent decade. It would be really helpful if we are able to predict the prices of car based on a few set of features such as <strong>horsepower</strong>, <strong>make</strong> and <strong>other features</strong>. Imagine if a company wants to set the price of a car based on some of the features such as make, horsepower and mileage. It could do so with the help of machine learning models that would help it to determine the price of car. This would ensure that the company sets the right amount so that they get the most profits while setting such a price. Therefore, the machine learing models that we would be working with would ensure that right price is set to new cars which would save a lot of money for car manufacturers respectively. </p>
