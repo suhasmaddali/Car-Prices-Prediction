@@ -12,7 +12,7 @@ There are a lot of __car manufacturers__ in the US. With the development of manu
 
 However, one of the challenging aspects of running the sales for cars is to accurately give the __best price__ for cars which ensures that a lot of people buy them and there is a great demand because of this price. Factors that influence the price of cars are __mileage__, __car size__, __manufacturer__ and many others as well. But for humans to comprehensively decide the price is difficult especially when there are a lot of these features that influence the price. One of the solutions to this challenge is to use __machine learning__ and __data science__ to understand the insights and make valuable predictions which generate profits for the companies.  
 
-<h2> Data Used</h2>
+<h2> Data Source</h2>
 
 We would be working with quite a large data which contain about __10000__ data points where again we would be dividing that into training set and the test set. Having a look at some of the cars that we are always excited to use in our daily lives, it is better to understand how these cars are being sold and their average prices. Feel free to take a look at the dataset that was used in the process of predicting the prices of cars. Below is the link.
 
