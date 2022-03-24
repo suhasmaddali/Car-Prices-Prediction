@@ -65,7 +65,7 @@ We have to be using various machine learning models to see which model reduces t
 
 ## Future Scope
 
-* It would be great if the best machine learning model (Decision Tree Regressor) is integrated in the live application where a seller is able to add details such as the manufacturer, year of manufacture and engine cylinders to determine the best price for cars that generates large profit margins for the seller. 
+* It would be great if the best __machine learning model (Decision Tree Regressor)__ is integrated in the live application where a __seller__ is able to add details such as the __manufacturer__, __year of manufacture__ and __engine cylinders__ to determine the best price for cars that generates __large profit margins__ for the seller. 
 
 ## 👉 Directions to download the repository and run the notebook 
 
