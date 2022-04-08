@@ -54,7 +54,7 @@ We have to be using various machine learning models to see which model reduces t
 |	[3. K Nearest Regressor](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html)|	4668|	198923161|
 |	[4. PLS Regression](https://scikit-learn.org/stable/modules/generated/sklearn.cross_decomposition.PLSRegression.html)|	6732|	364661296|
 |	[5. Decision Tree Regressor](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html)|	__3327__|	135789622|
-|	6. Gradient Boosting Regressor|	4432|	175275369|
+|	[6. Gradient Boosting Regressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html)|	4432|	175275369|
 |	7. MLP Regressor|	6467|	250908327|
 
 ## Outcomes
