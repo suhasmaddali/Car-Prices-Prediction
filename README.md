@@ -50,7 +50,7 @@ We have to be using various machine learning models to see which model reduces t
 | __Machine Learning Models__| __Mean Absolute Error__| __Mean Squared Error__|
 | :-:| :-:| :-:|
 | [1. Linear Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)| 6737| 364527989|
-| 2. Support Vector Regressor|	22525|	2653742304|
+| [2. Support Vector Regressor](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html)|	22525|	2653742304|
 |	3. K Nearest Regressor|	4668|	198923161|
 |	4. PLS Regression|	6732|	364661296|
 |	5. Decision Tree Regressor|	__3327__|	135789622|
