@@ -25,7 +25,7 @@ https://www.kaggle.com/CooperUnion/cardataset
 * Imagine if a company wants to set the price of a car based on some of the features such as make, horsepower and mileage. 
 * It could do so with the help of machine learning models that would help it to determine the price of car. 
 * This would ensure that the company sets the right amount so that they get the most profits while setting such a price. 
-* Therefore, the machine learing models that we would be working with would ensure that right price is set to new cars which would save a lot of money for car manufacturers respectively. </p>
+* Therefore, the machine learing models that we would be working with would ensure that right price is set to new cars which would save a lot of money for car manufacturers respectively.
 * We would be working with the car prices prediction data and looking for the predictions of different kinds of cars. 
 * We would be first visualizing the data and understanding some of the information that is very important for predictions. 
 * We would be using different regression techniques to get the average price of the car under consideration.
