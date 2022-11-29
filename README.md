@@ -22,11 +22,11 @@ https://www.kaggle.com/CooperUnion/cardataset
 ## Machine Learning and Deep Learning
 
 * __Machine Learning__ and __deep learning__ have gained rapid traction in the recent decade. 
-* It would be really helpful if we are able to predict the prices of car based on a few set of features such as __horsepower__, __make__ and __other features__. 
-* Imagine if a company wants to set the price of a car based on some of the features such as make, horsepower and mileage. 
-* It could do so with the help of machine learning models that would help it to determine the price of car. 
+* It would be really helpful if we are able to predict the prices of a car based on a few sets of features such as __horsepower__, __make__ and __other features__. 
+* Imagine if a company wants to set the price of a car based on some of the features such as make, horsepower, and mileage. 
+* It could do so with the help of machine learning models that would help it to determine the price of a car. 
 * This would ensure that the company sets the right amount so that they get the most profits while setting such a price. 
-* Therefore, the machine learing models that we would be working with would ensure that right price is set to new cars which would save a lot of money for car manufacturers respectively.
+* Therefore, the machine learning models that we would be working with would ensure that the right price is set for new cars which would save a lot of money for car manufacturers respectively.
 * We would be working with the car prices prediction data and looking for the predictions of different kinds of cars. 
 * We would be first visualizing the data and understanding some of the information that is very important for predictions. 
 * We would be using different regression techniques to get the average price of the car under consideration.
