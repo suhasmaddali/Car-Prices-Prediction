@@ -33,7 +33,7 @@ https://www.kaggle.com/CooperUnion/cardataset
 
 ## Metrics
 
-Predicting the car prices is a __continuous machine learning problem__. Therefore, the following metrics that are useful for regression problems are taken into account. Below are the __metrics__ that were used in the process of predicting of car prices.
+Predicting car prices is a __continuous machine learning problem__. Therefore, the following metrics that are useful for regression problems are taken into account. Below are the __metrics__ that were used in the process of predicting car prices.
 
 * [__Mean Squared Error (MSE)__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html)
 * [__Mean Absolute Error (MAE)__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_absolute_error.html)
