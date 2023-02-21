@@ -23,6 +23,7 @@ https://www.kaggle.com/CooperUnion/cardataset
 
 <h2> Visualizations</h2>
 
+Looking at the dataset, it can be seen that there are categories such as Vehicle Size, city mpg, popularity and transmission types. There are other features that we would explore in visualizations. 
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Data%20Image.png"/>
 
