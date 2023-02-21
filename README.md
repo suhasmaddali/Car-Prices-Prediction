@@ -23,6 +23,9 @@ https://www.kaggle.com/CooperUnion/cardataset
 
 <h2> Visualizations</h2>
 
+
+<img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Data%20Image.png"/>
+
 We will be taking a look at a list of visualizations that can give us an understanding of the data. 
 Exploring the count of various car companies available in the dataset, it is seen that Chevrolent has the highest number of cars followed by Cadillac. 
 
