@@ -21,6 +21,8 @@ We would be working with quite a large data which contains about __10000__ data 
 
 https://www.kaggle.com/CooperUnion/cardataset
 
+<h2> Visualizations</h2>
+
 ## Machine Learning and Deep Learning
 
 * __Machine Learning__ and __deep learning__ have gained rapid traction in the recent decade. 
