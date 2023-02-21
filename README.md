@@ -32,7 +32,7 @@ Exploring the count of various car companies available in the dataset, it is see
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Total%20Cars%20Count.png"/>
 
-With the progress in years, there is an increase in the demand for cars sold. 
+With the progress in years, there is an increase in the demand for cars sold. This is clearly demonstrated in the visualization. In addition, our ML models would perform well on the most recent cars as we have more data in this category. 
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Cars%20Sold.png"/>
 
