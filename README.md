@@ -23,6 +23,8 @@ https://www.kaggle.com/CooperUnion/cardataset
 
 <h2> Visualizations</h2>
 
+<img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Total%20Cars%20Count.png"/>
+
 ## Machine Learning and Deep Learning
 
 * __Machine Learning__ and __deep learning__ have gained rapid traction in the recent decade. 
