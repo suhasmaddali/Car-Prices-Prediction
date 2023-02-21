@@ -32,6 +32,8 @@ Exploring the count of various car companies available in the dataset, it is see
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Total%20Cars%20Count.png"/>
 
+With the progress in years, there is an increase in the demand for cars sold. 
+
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Cars%20Sold.png"/>
 
 ## Machine Learning and Deep Learning
