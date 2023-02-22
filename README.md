@@ -59,6 +59,7 @@ The overall prices of cars were the highest for the year '2014' compared to othe
 Cars that have both automatic and manual transmission has highest average prices for all the years. This is followed by only automatic tranmission type cars. There are a few unknown categories that must be either removed or converted to a category as they do not ain't in helping to understand the transmission type of cars.  
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Avg%20prices%20per%20transmission%20plot.png"/>
+
 ## Machine Learning and Deep Learning
 
 * __Machine Learning__ and __deep learning__ have gained rapid traction in the recent decade. 
