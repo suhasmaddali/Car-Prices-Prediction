@@ -60,6 +60,7 @@ Cars that have both automatic and manual transmission has highest average prices
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Avg%20prices%20per%20transmission%20plot.png"/>
 
+The average prices of cars for companies such as Bugatti and Maybach are the highest. There is a significant difference in terms of price for companies such as Bugatti vs other cars. This is true in real-life because of their popularity in the modern world. Some of the most expensive brands, according to the plot, include Bugatti, Maybach, Rolls-Royce, Lamborghini, Bentley, McLaren and Ferrari. You can explore the plot to understand the average car prices for various car brands. 
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/avg%20prices%20per%20company%20plot.png"/>
 
