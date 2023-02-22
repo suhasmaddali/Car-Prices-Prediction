@@ -36,6 +36,8 @@ With the progress in years, there is an increase in the demand for cars sold. Th
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Cars%20Sold.png"/>
 
+Most of the cars are automatic as depicted in the plot. There are less manual cars as compared to automatic cars. There are also few unknown categories. 
+
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Transmission%20type%20countplot.png"/>
 
 ## Machine Learning and Deep Learning
