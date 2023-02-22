@@ -40,7 +40,7 @@ Most of the cars are automatic as depicted in the plot. There are less manual ca
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Transmission%20type%20countplot.png"/>
 
-Most of the cars a regular unleaded engine type. There are also electric cars in our categories. Since electric cars are new, they are low in number in the dataset. There are few car categories that use diesel or other types of fuels. 
+Most of the cars have a regular unleaded engine type. There are also electric cars in our categories. Since electric cars are new, they are low in number in the dataset. There are few car categories that use diesel or other types of fuels. 
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Engine%20type%20countplot.png"/>
 
