@@ -48,6 +48,8 @@ A large portion of cars are compact vehicle size cars. But we tend to see that t
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Countplot%20of%20vehicle%20size.png"/>
 
+<img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Missingno%20plot.png"/>
+
 ## Machine Learning and Deep Learning
 
 * __Machine Learning__ and __deep learning__ have gained rapid traction in the recent decade. 
