@@ -52,6 +52,9 @@ Missingno plots are useful to help us determine the total number of missing valu
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Missingno%20plot.png"/>
 
+
+<img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Avg%20car%20prices%20per%20year%20plot.png"/>
+
 ## Machine Learning and Deep Learning
 
 * __Machine Learning__ and __deep learning__ have gained rapid traction in the recent decade. 
