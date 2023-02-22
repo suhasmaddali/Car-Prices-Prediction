@@ -21,7 +21,7 @@ However, one of the challenging aspects of running the sales for cars is to accu
 * Having a look at some of the cars that we are always excited to use in our daily lives, it is better to understand how these cars are being sold and their average prices. 
 * Feel free to take a look at the dataset that was used in the process of predicting the prices of cars. Below is the link.
 
-__Dataset Link:__ https://www.kaggle.com/CooperUnion/cardataset
+__Source:__ https://www.kaggle.com/CooperUnion/cardataset
 
 <h2> Visualizations</h2>
 
