@@ -36,6 +36,8 @@ With the progress in years, there is an increase in the demand for cars sold. Th
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Cars%20Sold.png"/>
 
+<img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Transmission%20type%20countplot.png"/>
+
 ## Machine Learning and Deep Learning
 
 * __Machine Learning__ and __deep learning__ have gained rapid traction in the recent decade. 
