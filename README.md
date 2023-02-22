@@ -44,6 +44,8 @@ Most of the cars have a regular unleaded engine type. There are also electric ca
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Engine%20type%20countplot.png"/>
 
+A large portion of cars are compact vehicle size cars. But we tend to see that there is quite an equal distribution of cars amount the various vehicle size categories. 
+
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Countplot%20of%20vehicle%20size.png"/>
 
 ## Machine Learning and Deep Learning
