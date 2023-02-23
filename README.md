@@ -66,6 +66,8 @@ The average prices of cars for companies such as Bugatti and Maybach are the hig
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/avg%20prices%20per%20company%20plot.png"/>
 
+<img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Horsepower%20plot.png"/>
+
 ## Machine Learning and Deep Learning
 
 * __Machine Learning__ and __deep learning__ have gained rapid traction in the recent decade. 
