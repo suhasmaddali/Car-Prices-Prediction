@@ -74,9 +74,9 @@ Car brands such as Ford and BMW are highly popular. Other popular brands include
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Popularity%20plot.png"/>
 
-The plot on the left below shows the highway MPG for all the cars in the dataset. Based on this, it is seen that there are quite a few outliers in the data. Therefore, steps are taken to remove them. 
+The plots on the left below show the highway MPG for all the cars in the dataset. Based on this, it is seen that there are quite a few outliers in the data. Therefore, steps are taken to remove them. 
 
-The plot on the right shows the highway MPG feature after removing the outliers from the data. In this way, the best ML model learns these features and represents them to make predictions about the car prices. 
+The plots on the right show the highway MPG feature after removing the outliers from the data. In this way, the best ML model learns these features and represents them to make predictions about the car prices. 
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Highway%20mgp.png"/><img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Highway%20mpg%20outliers%20removed.png"/>
 
