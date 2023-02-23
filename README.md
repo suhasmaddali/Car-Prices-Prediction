@@ -66,6 +66,8 @@ The average prices of cars for companies such as Bugatti and Maybach are the hig
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/avg%20prices%20per%20company%20plot.png"/>
 
+This is a bar chart highlighting the horse power of various car manufacturers. Without surprise, Bugatti has the highest horsepower despite having a higher price as compared to other brands. This followed by McLaren and Mayback. These cars typically are the best in class when it comes to delivering peformance. 
+
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Horsepower%20plot.png"/>
 
 ## Machine Learning and Deep Learning
