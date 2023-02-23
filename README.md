@@ -70,6 +70,8 @@ This is a bar chart highlighting the horse power of various car manufacturers. W
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Horsepower%20plot.png"/>
 
+Car brands such as Ford and BMW are highly popular. Other popular brands include Audi, Ferrari, Honda and Nissan. It can be interesting to see how much of an impact does popularity of cars have on car prices for various brands. 
+
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Popularity%20plot.png"/>
 
 ## Machine Learning and Deep Learning
