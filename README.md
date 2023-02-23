@@ -86,7 +86,7 @@ As evident in real-life, highway MPG for a particular car tends to be higher tha
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/City%20Vs%20Highway%20boxplot.png"/>
 
-<imb src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Heatmap%20correlation.png"/>
+<img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Heatmap%20correlation.png"/>
 
 ## Machine Learning and Deep Learning
 
