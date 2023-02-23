@@ -23,6 +23,25 @@ However, one of the challenging aspects of running the sales for cars is to accu
 
 __Source:__ https://www.kaggle.com/CooperUnion/cardataset
 
+## Metrics
+
+Predicting car prices is a __continuous machine learning problem__. Therefore, the following metrics that are useful for regression problems are taken into account. Below are the __metrics__ that were used in the process of predicting car prices.
+
+* [__Mean Squared Error (MSE)__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html)
+* [__Mean Absolute Error (MAE)__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_absolute_error.html)
+
+## Exploratory Data Analysis (EDA)
+
+In this section of the project, the data is explored to see the patterns and trends and observe interesting insights. Below are some interesting observations generated.
+
+* A large number of cars were from the manufacturer __'Chevrolet'__ followed by __'Ford'__. 
+* The total number of cars manufactured during the year __2015__ was the highest in all the years found on the data.
+* There were many missing values for __'Market Category'__ feature and a few missing values for the features __'Engine HP'__ and __'Engine Cylinders'__.
+* The average prices of the cars were the highest in the year __2014__ and lowest in the year __1990__ from the data. 
+* The prices of __'Bugatti'__ manufacturer are extremely high compared to the other car manufacturers.  
+* __'Bugatti'__ manufacturer also had an extremely high value for horsepower (HP) based on the graphs in the notebook.
+* There is a __negative correlation__ between the feature __'City Mileage'__ and other features such as __'Engine Cylinders'__ and __'Engine HP'__. This is true because the higher the mileage of the car, there is higher the probability that the total number of cylinders and engine horsepower would be low. 
+
 <h2> Visualizations</h2>
 
 Looking at the dataset, it can be seen that there are categories such as Vehicle Size, city mpg, popularity and transmission types. There are other features that we would explore in visualizations. 
@@ -101,25 +120,6 @@ Building a heatmap of correlation matrix, it is seen that engine horepower and e
 * We would be working with the car prices prediction data and looking for the predictions of different kinds of cars. 
 * We would be first visualizing the data and understanding some of the information that is very important for predictions. 
 * We would be using different regression techniques to get the average price of the car under consideration.
-
-## Metrics
-
-Predicting car prices is a __continuous machine learning problem__. Therefore, the following metrics that are useful for regression problems are taken into account. Below are the __metrics__ that were used in the process of predicting car prices.
-
-* [__Mean Squared Error (MSE)__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html)
-* [__Mean Absolute Error (MAE)__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_absolute_error.html)
-
-## Exploratory Data Analysis (EDA)
-
-In this section of the project, the data is explored to see the patterns and trends and observe interesting insights. Below are some interesting observations generated.
-
-* A large number of cars were from the manufacturer __'Chevrolet'__ followed by __'Ford'__. 
-* The total number of cars manufactured during the year __2015__ was the highest in all the years found on the data.
-* There were many missing values for __'Market Category'__ feature and a few missing values for the features __'Engine HP'__ and __'Engine Cylinders'__.
-* The average prices of the cars were the highest in the year __2014__ and lowest in the year __1990__ from the data. 
-* The prices of __'Bugatti'__ manufacturer are extremely high compared to the other car manufacturers.  
-* __'Bugatti'__ manufacturer also had an extremely high value for horsepower (HP) based on the graphs in the notebook.
-* There is a __negative correlation__ between the feature __'City Mileage'__ and other features such as __'Engine Cylinders'__ and __'Engine HP'__. This is true because the higher the mileage of the car, there is higher the probability that the total number of cylinders and engine horsepower would be low. 
 
 ## Machine Learning Models 
 
