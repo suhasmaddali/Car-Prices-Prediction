@@ -79,6 +79,9 @@ The plot on the left below shows the highway MPG for all the cars in the dataset
 The plot on the right shows the highway MPG feature after removing the outliers from the data. In this way, the best ML model learns these features and represents them to make predictions about the car prices. 
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Highway%20mgp.png"/><img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Highway%20mpg%20outliers%20removed.png"/>
+
+<img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Cith%20mpg.png"/>
+
 ## Machine Learning and Deep Learning
 
 * __Machine Learning__ and __deep learning__ have gained rapid traction in the recent decade. 
