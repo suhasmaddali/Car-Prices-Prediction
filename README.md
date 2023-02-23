@@ -86,6 +86,8 @@ As evident in real-life, highway MPG for a particular car tends to be higher tha
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/City%20Vs%20Highway%20boxplot.png"/>
 
+Building a heatmap of correlation matrix, it is seen that engine horepower and engine cylinders are closely related. In addition, features such as city mpg and highway mpg are also correlated with each other. 
+
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Heatmap%20correlation.png"/>
 
 ## Machine Learning and Deep Learning
