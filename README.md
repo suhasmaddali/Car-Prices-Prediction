@@ -120,6 +120,8 @@ Building a heatmap of correlation matrix, it is seen that engine horepower and e
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Heatmap%20correlation.png"/>
 
+<img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/LR%20Plot.png"/>
+
 ## Machine Learning Models 
 
 We have to be using various machine learning models to see which model reduces the __mean absolute error (MAE)__ or __mean squared error (MSE)__ on the cross-validation data respectively. Below are the various machine learning models used. 
