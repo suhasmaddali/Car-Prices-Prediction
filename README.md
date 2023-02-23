@@ -82,6 +82,8 @@ The plots on the right show the highway MPG feature after removing the outliers 
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Cith%20mpg.png"/><img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/City%20mpg%20outliers%20removed.png"/>
 
+As evident in real-life, highway MPG for a particular car tends to be higher than the city MPG. This is relfected in this plot as there is a difference in the spread and the mean for each of the categories. There are still a few outliers but we will consider some of them and get the performance of models. 
+
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/City%20Vs%20Highway%20boxplot.png"/>
 
 ## Machine Learning and Deep Learning
