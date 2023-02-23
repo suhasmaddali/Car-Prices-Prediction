@@ -82,6 +82,8 @@ The plots on the right show the highway MPG feature after removing the outliers 
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Cith%20mpg.png"/><img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/City%20mpg%20outliers%20removed.png"/>
 
+<img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/City%20Vs%20Highway%20boxplot.png"/>
+
 ## Machine Learning and Deep Learning
 
 * __Machine Learning__ and __deep learning__ have gained rapid traction in the recent decade. 
