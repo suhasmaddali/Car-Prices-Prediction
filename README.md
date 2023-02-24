@@ -144,7 +144,7 @@ We will now focus our attention on the performance of __various models__ on the 
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Decision%20Tree%20Plot.png"/>
 
-[__Gradient Boosting Regressor__](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html)
+[__Gradient Boosting Regressor__](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html) - The performance of gradient boosted decision regressor is plotted and it shows that it is quite similar to decision tree. At prices that are extremely high, the model fails to capture the trend in the data. It does a good job overall. 
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/GBDT%20Plot.png"/>
 
