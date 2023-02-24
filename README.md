@@ -140,6 +140,10 @@ We will now focus our attention on the performance of __various models__ on the 
  
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/PLS%20Regressor%20plot.png"/>
 
+[__5. Decision Tree Regressor__](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html)
+
+<img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Decision%20Tree%20Plot.png"/>
+
 ## Machine Learning Models 
 
 We have to be using various machine learning models to see which model reduces the __mean absolute error (MAE)__ or __mean squared error (MSE)__ on the cross-validation data respectively. Below are the various machine learning models used. 
