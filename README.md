@@ -128,6 +128,8 @@ We will now focus our attention on the performance of __various models__ on the 
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/LR%20Plot.png"/>
 
+[__Support Vector Regressor__](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html) - Support vector regression (SVR) can be computationally. In addition, the results below indicate that the predictions are far off from the actual car prices. Therefore, alternate models cna be explored. 
+
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/SVR%20Plot.png"/>
 
 ## Machine Learning Models 
