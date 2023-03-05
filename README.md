@@ -152,6 +152,7 @@ We will now focus our attention on the performance of __various models__ on the 
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/MLP%20Regressor%20plot.png"/>
 
+__Mean Absolute Error (Final Model Performance)__
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Final%20MAE.png"/>
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Final%20MSE.png"/>
