@@ -156,7 +156,7 @@ We will now focus our attention on the performance of __various models__ on the 
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Final%20MAE.png"/>
 
-[__Final Mean Squared Error__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html) - The performance of Decision Tree Regressor was also the highest when using mean squared error as the output metric. While the Gradient Boosted Regressor comes close to the performance of a Decision Tree Regressor, the latter is highly interpretable and easier to deploy in real-time. Therefore, we can choose this model for deployment as it is performing consistently across a large variety of metrics. 
+[__Final Mean Squared Error__](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html) - The performance of Decision Tree Regressor was also the highest when using mean squared error as the output metric. While the Gradient Boosted Regressor came close to the performance of a Decision Tree Regressor, the latter is highly interpretable and easier to deploy in real-time. Therefore, we can choose this model for deployment as it is performing consistently across a large variety of metrics. 
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Final%20MSE.png"/>
 
