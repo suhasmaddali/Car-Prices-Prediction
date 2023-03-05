@@ -120,8 +120,6 @@ Building a heatmap of correlation matrix, it is seen that engine horepower and e
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Heatmap%20correlation.png"/>
 
-<img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Final%20MSE.png"/>
-
 ### Model Performance
 
 We will now focus our attention on the performance of __various models__ on the test data. Scatterplots can help us determine how much of a spread our predictions are from the actual values. Let us go over the performance of many ML models used in our problem of car prices prediction. 
@@ -155,6 +153,8 @@ We will now focus our attention on the performance of __various models__ on the 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/MLP%20Regressor%20plot.png"/>
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Final%20MAE.png"/>
+
+<img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Final%20MSE.png"/>
 
 ## Machine Learning Models 
 
