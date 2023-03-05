@@ -156,7 +156,7 @@ __Mean Absolute Error (Final Model Performance)__ - After performing feature eng
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Final%20MAE.png"/>
 
-__Mean Squared Error (Final Model Performance)__
+__Mean Squared Error (Final Model Performance)__ - The performance of Decision Tree Regressor was also the highest when using mean squared error as the output metric. While the Gradient Boosted Regressor comes close to the performance of a Decision Tree Regressor, the latter is highly interpretable and easier to deploy in real-time. Therefore, we can choose this model for deployment as it is performing consistently across a large variety of metrics. 
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Final%20MSE.png"/>
 
