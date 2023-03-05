@@ -88,7 +88,7 @@ The overall prices of cars were the highest for the year '2014' compared to othe
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Avg%20car%20prices%20per%20year%20plot.png"/>
 
-Cars that have both automatic and manual transmission has the highest average prices for all the years. This is followed by only automatic transmission-type cars. There are a few unknown categories that must be either removed or converted to a category as they do not ain't in helping to understand the transmission type of cars.  
+Cars that have both automatic and manual transmission has the highest average prices for all the years. This is followed by only automatic transmission-type cars. There are a few unknown categories that must be either removed or converted to a category as they do not aid in helping to understand the transmission type of cars.  
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Avg%20prices%20per%20transmission%20plot.png"/>
 
