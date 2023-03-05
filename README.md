@@ -60,7 +60,7 @@ Looking at the dataset, it can be seen that there are categories such as Vehicle
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Data%20Image.png"/>
 
 We will be taking a look at a list of visualizations that can give us an understanding of the data. 
-Exploring the count of various car companies available in the dataset, it is seen that Chevrolet has the highest number of cars followed by Cadillac. 
+Exploring the count of various car companies available in the dataset, it is seen that Chevrolet has the highest number of cars followed by Ford. 
 
 <img src = "https://github.com/suhasmaddali/Car-Prices-Prediction/blob/main/images/Total%20Cars%20Count.png"/>
 
